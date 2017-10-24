@@ -1,0 +1,40 @@
+The goal of this career is to simulate, fairly accurately (within the limitations
+of Kerbal Space Program) how real space missions are "flown", which is to say that
+uncrewed missions are fully programmed and "flown" by mission controllers on
+the ground via computer programs, and crewed missions are highly automated for
+some aspects of the flight, while giving astronauts the ability to override
+the computer and fly their craft (within limits) as needed.
+
+The kOS addon for KSP allows for a high degree of simulation, and along with a
+slew of other addons, can create an interesting play style that simulates this
+kind of "Mission Control". This repository is where the scripts for this
+career playthrough of KSP will reside.
+
+There are many types of missions and playstyles with KSP given its sandbox
+design. Here are the rules this playthrough will follow:
+
+1. Missions will be flown by rockets, or by SSTO aircraft.
+  KSP is a fun game when you design, build (and in this case - script) missions.
+  It frankly doesn't work well as a "flight" simulator - at least, not until
+  enough technology is unlocked to allow the construction of SSTO craft. We'll
+  stick to what KSP does well - rocketry - until that part of the tech tree
+  is available.
+
+2. Addons will be used extensively.
+  See addon.list.txt for a list of addons used in this playthrough. When
+  selecting addons to use, I focused on those that met the overall theme of
+  exploration of the Kerbol system in a way NASA might do so - uncrewed
+  exploration of the system, and crewed missions that gradually move out
+  of low Kerbin orbit and out to the planets, moons, and asteroids.
+
+3. Kerbal pilots will be able to fly their craft.
+  Kevin Gisi has a WONDERFUL playthrough of KSP using kOS (TODO: add link) which
+  serves as inspiration for this series. His goal is to have the Kerbals do
+  essentially nothing for any of his missions - they're 100% scripted (as much
+  as possible). We're not going to be that trusting of the computers. :)
+
+4. TODO: add list of options for the career save
+
+5. TODO: add craft construction rules(?)
+
+6. TODO: add script construction rules (?)
